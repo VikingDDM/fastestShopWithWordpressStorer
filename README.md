@@ -1,12 +1,6 @@
 Fastest Shop WordPress Free Online Store Theme
 ========================================
 
-<h4><a href="https://athemeart.dev/demo/fastest-shop/" target="_blank" >Live Demo.</a></h4>
-
-<img src="https://www.athemeart.com/wp-content/uploads/edd/2021/03/fastest-shop-screenshot.png" alt="WordPress Free Online Store Theme" />
-
-The Fastest <a href="https://www.athemeart.com/downloads/fastest-elementor-woocommerce-theme/" target="_blank" >WordPress Shop theme</a> is a very elegant, attractive, and multipurpose modern-day free shop theme. It builds with recent modern technology and especially for WooCommerce shop or storefront lover. Yet, you can also use it for personal blogs, affiliates, or any related WordPress store. But this theme will best fit on a Fashion Shop, Beauty, Cosmetics, Jewelry, and any similar store themes.
-
 So, are you a shop or storefront lover to do business with? Do you in need of a free fastest WordPress WooCommerce Shop theme? Do you need a shop theme where you can customize all options with ease and make business comfortable? If yes, then all your questions answered with the Fastest WordPress Shop theme.
 
 It comes with lots of fresh, remarkable, and impressive features like no other. First of all, it provides lots of different shop front layouts, simple product columns, and product filters. Second, to make products shoppable faster, it uses unique typography and color schemes. Also, to provide WooCommerce Storefront flexibility, it has WooCommerce compatible, translation-ready, and retina-ready.
